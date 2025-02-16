@@ -22,3 +22,8 @@ export PYTHONPATH=`pwd`
 ## Clean up
 
 Run `poetry run python src/clean_up.py`
+
+## Documentation
+
+- Code is based on:
+  - https://github.com/aws-samples/amazon-bedrock-samples/blob/main/custom-models/model_distillation/Distillation-via-S3-input.ipynb
