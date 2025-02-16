@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bedrock-model-distillation"
+version = "0.1.0"
+description = ""
+authors = ["phtre57 <phtre57@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+boto3 = "^1.36.21"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
